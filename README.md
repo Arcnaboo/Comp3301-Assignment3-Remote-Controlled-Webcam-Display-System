@@ -9,4 +9,4 @@ Clone of the original assignment submission
  * 3rd parth program: avconv (Libav)
  
  Assignment Spec Sheet:
- 
+ https://github.com/Arcnaboo/Comp3301-Assignment3-Remote-Controlled-Webcam-Display-System/blob/master/comp3301_7308_assignment3.pdf
